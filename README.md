@@ -4,6 +4,8 @@ Hi, I’m Daniel, a statistician / data scientist with a keen interest in the in
 
 Previously, I worked as a research assistant on statistical network analysis applied to the international arms trade, which resulted in two publications currently undergoing peer review. Prior to my master’s degree in statistics with economics, I pursued graduate studies in mathematics, economics, and computer science, as well as a BSc in mathematics. If you’d like to chat about my work or potential collaborations, please don’t hesitate to get in touch!
 
+You can find me on [LinkedIn](https://www.linkedin.com/daniel-seussler/) or at daniel.seussler[at]campus.lmu.de.
+
 <!--
 **danielseussler/danielseussler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
