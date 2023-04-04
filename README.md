@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hi, I’m Daniel, a statistician / data scientist with a keen interest in the intersection of public health and development policy with statistics and data science. In my thesis, I assessed the use of statistical learning techniques for the identification of health risk factors off of household survey data. Other work and interests include Bayesian spatial and time-series modelling of health data, and econometrics / causal data science. A year ago, I completed an internship at the Human Development Report Office at the United Nations Development Programme (UNDP) in New York, where I worked on uncertainty quantification of composite indicators for their annual report.
+
+Previously, I worked as a research assistant on statistical network analysis applied to the international arms trade, which resulted in two publications currently undergoing peer review. Prior to my master’s degree in statistics with economics, I pursued graduate studies in mathematics, economics, and computer science, as well as a BSc in mathematics. If you’d like to chat about my work or potential collaborations, please don’t hesitate to get in touch!
+
 <!--
 **danielseussler/danielseussler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
