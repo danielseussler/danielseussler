@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-Hi, I’m Daniel, a statistician / data scientist with a keen interest in the intersection of public health and development policy with statistics and data science. In my thesis, I assessed the use of statistical learning techniques for the identification of health risk factors off of household survey data. Other work and interests include Bayesian spatial and time-series modelling of health data, and econometrics / causal data science. A year ago, I completed an internship at the Human Development Report Office at the United Nations Development Programme (UNDP) in New York, where I worked on uncertainty quantification of composite indicators for their annual report.
+Hi, I'm Daniel, a statistician and data scientist with a particular interest on applications in global public health and development policy.
 
-Previously, I worked as a research assistant on statistical network analysis applied to the international arms trade, which resulted in two publications currently undergoing peer review. Prior to my master’s degree in statistics with economics, I pursued graduate studies in mathematics, economics, and computer science, as well as a BSc in mathematics. If you’d like to chat about my work or potential collaborations, please don’t hesitate to get in touch!
+I hold a master's degree in statistics from the University of Munich. Prior to my master's degree, I obtained a bachelor's degree in mathematics with a minor in economics, also from the University of Munich.
 
-You can find me on [LinkedIn](https://www.linkedin.com/daniel-seussler/) or at daniel.seussler[at]campus.lmu.de. See also [danielseussler.github.io](https://danielseussler.github.io).
+My research interests are in Bayesian hierarchical modeling of spatio-temporal data and interpretable machine learning. I am also passionate about causal inference for public programme evaluation and machine learning for heterogeneous treatment effects. Other areas are survey data statistics and remotely sensed data.
+
+If you'd like to chat about research, don't hesitate to get in touch!
+
+You can find me on [LinkedIn](https://www.linkedin.com/daniel-seussler/) or at daniel dot seussler at outlook dot de. See also [danielseussler.github.io](https://danielseussler.github.io).
 
 <!--
 **danielseussler/danielseussler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
