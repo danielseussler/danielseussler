@@ -2,7 +2,7 @@
 
 Hi, I'm Daniel, a researcher and data scientist with a particular interest on applications in global public health and development policy.
 
-My areas of expertise revolve around modern Bayesian statistics and machine learning methods for epidemiological research and public program evaluation in developing countries. In this context, my particular focus is in causal inference and the utilization of disparate data sources.
+My areas of interest revolve around modern Bayesian statistics and machine learning methods for epidemiological research and public program evaluation in developing countries. In this context, my particular focus is in causal inference and the utilization of disparate data sources.
 
 I hold a master's degree in statistics from the University of Munich. Prior to my master's degree, I obtained a bachelor's degree in mathematics with a minor in economics, also from the University of Munich. Prior to joining C4ED, an independent research non-profit specializing in impact evaluation projects worldwide, I worked as a research assistant and interned at the UNDP and in the private sector. 
 
