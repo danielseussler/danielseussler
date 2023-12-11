@@ -10,7 +10,7 @@ I'm a German-Colombian dual citizen and currently based in Frankfurt am Main, Ge
 
 If you'd like to chat about research, don't hesitate to get in touch!
 
-You can find me on [LinkedIn](https://www.linkedin.com/daniel-seussler/) or at daniel dot seussler at outlook dot de. 
+You can find me on [LinkedIn](https://www.linkedin.com/daniel-seussler/) or write me at dseussler at outlook dot com. 
 
 <!--
 **danielseussler/danielseussler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
