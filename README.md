@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Hi, I'm Daniel, a researcher and data scientist with a particular interest on applications in global public health and development policy.
+Hi, I'm Daniel, a researcher and data scientist focused on applications in global public health and development policy.
 
-My areas of interest revolve around modern Bayesian statistics and machine learning methods for epidemiological research and public program evaluation in developing countries. In this context, my particular focus is in causal inference and the utilization of disparate data sources.
+My interests lie in modern Bayesian statistics and machine learning for epidemiological research and public program evaluation, with a focus on causal inference and leveraging disparate data sources, especially in developing countries.
 
-I hold a master's degree in statistics from the University of Munich. Prior to my master's degree, I obtained a bachelor's degree in mathematics with a minor in economics, also from the University of Munich. Prior to joining C4ED, an independent research non-profit specializing in impact evaluation projects worldwide, I worked as a research assistant and interned at the UNDP and in the private sector. 
+I earned a master's degree in statistics from the University of Munich after completing a bachelor's degree in mathematics with a minor in economics, also at the University of Munich. Prior to joining C4ED, a global research non-profit focused on impact evaluation projects, I worked as a research assistant and interned at UNDP and in the private sector.
 
-I'm a German-Colombian dual citizen and currently based in Frankfurt am Main, Germany.
+I'm a German-Colombian dual citizen and currently based in Islamabad, Pakistan and Frankfurt am Main, Germany.
 
 If you'd like to chat about research, don't hesitate to get in touch!
 
