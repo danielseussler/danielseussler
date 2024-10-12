@@ -6,7 +6,7 @@ My interests lie in modern Bayesian statistics and machine learning for epidemio
 
 I earned a master's degree in statistics from the University of Munich after completing a bachelor's degree in mathematics with a minor in economics, also at the University of Munich. Prior to joining C4ED, a global research non-profit focused on impact evaluation projects, I worked as a research assistant and interned at UNDP and in the private sector.
 
-I'm a German-Colombian dual citizen and currently based in Islamabad, Pakistan and Frankfurt am Main, Germany.
+I'm a German-Colombian dual citizen and currently based in Addis Ababa, Ethiopia and Frankfurt am Main, Germany.
 
 If you'd like to chat about research, don't hesitate to get in touch!
 
