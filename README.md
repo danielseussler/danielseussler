@@ -1,14 +1,10 @@
 ### Hi there 👋
 
-Hi, I'm Daniel, a researcher and data scientist focused on applications in global public health and development policy.
+Hi, I'm Daniel, a data scientist and researcher with expertise in statistical analysis, machine learning, and survey research. 
+With a background in statistics and mathematics and experience across Africa and South Asia, I work at the intersection of development research and data analytics. 
+My research interests are in probabilistic machine learning for epidemiological research and survey design and causal inference for public program evaluation.
 
-My interests lie in modern Bayesian statistics and machine learning for epidemiological research and public program evaluation, with a focus on causal inference and leveraging disparate data sources, especially in developing countries.
-
-I earned a master's degree in statistics from the University of Munich after completing a bachelor's degree in mathematics with a minor in economics, also at the University of Munich. Prior to joining C4ED, a global research non-profit focused on impact evaluation projects, I worked as a research assistant and interned at UNDP and in the private sector.
-
-I'm a German-Colombian dual citizen and currently based in Addis Ababa, Ethiopia and Frankfurt am Main, Germany.
-
-If you'd like to chat about research, don't hesitate to get in touch!
+I'm a German-Colombian dual citizen currently based in Addis Ababa, Ethiopia, and Frankfurt am Main, Germany. Feel free to reach out if you’d like to chat about research!
 
 You can find me on [LinkedIn](https://www.linkedin.com/daniel-seussler/) or write me at dseussler at outlook dot com. 
 
